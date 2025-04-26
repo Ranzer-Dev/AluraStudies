@@ -18,7 +18,9 @@ export default class Formulario extends React.Component {
                     />
                 </div>
                 <div>
-                    <label htmlFor=""></label>
+                    <label htmlFor="tempo">
+                        
+                    </label>
                     <input 
                     type="time"
                     step="1"
